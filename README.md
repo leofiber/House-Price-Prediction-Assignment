@@ -1,2 +1,14 @@
-# House-Price-Prediction-Assignment
-# House Price Prediction  Predict house prices using Linear Regression and regularized models (Ridge, Lasso, ElasticNet).  - **Linear Regression**: MSE 23.49, R² 0.739 - **Regularized Average**: MSE 23.49, R² 0.739
+# House Price Prediction
+
+Predict house prices using various models including Linear Regression and regularized methods (Ridge, Lasso, ElasticNet).
+
+## Key Results
+- **Linear Regression**
+  - MSE: 23.49
+  - R² Score: 0.739
+  - Predictions saved to `linear_regression_predictions.csv`
+
+- **Average of Ridge, Lasso, and ElasticNet**
+  - MSE: 23.49
+  - R² Score: 0.739
+  - Predictions saved to `average_predictions.csv`
